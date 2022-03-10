@@ -1,0 +1,4 @@
+- % de pacientes con Transtorno de Espectro Autista
+- Forma de reproduccion de musica (Descarga, streaming, etc)
+- Tipo de terapias que han utilizado
+- Gasto mensual en terapia
